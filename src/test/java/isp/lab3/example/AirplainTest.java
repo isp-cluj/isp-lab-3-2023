@@ -1,4 +1,4 @@
-package isp.lab3;
+package isp.lab3.example;
 
 import isp.lab3.example.Airplain;
 import org.junit.Test;
