@@ -75,3 +75,5 @@ A class VendingMachine contains:
 Create a new version of VendingMachine and transform the class in a singleton. References:
 - https://sourcemaking.com/design_patterns/singleton 
 - https://sourcemaking.com/design_patterns/singleton/java/2 
+
+# MainOfExercise1, MainOfExercise2, etc. are the main classes of each exercise. You Need to create a new class (i.e., Tree, Rectangle, etc.) for each exercise!!!
